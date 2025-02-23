@@ -1,4 +1,4 @@
 # Submission-Machine-Learning
-Tugas Yang Dikerjakan Selama Mengikuti Program *DICODING BY DBS 2025* Di Kategori Machine Learning.
+Tasks completed during the *DICODING BY DBS 2025* Program in the Machine Learning Category.
 
-Setiap Branch Mewakili Setiap Tugas Yang Dikerjakan.
+Each Branch Represents Each Task Performed.
