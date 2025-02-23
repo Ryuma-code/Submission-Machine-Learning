@@ -1,4 +1,4 @@
 # Submission-Machine-Learning
-Tugas Yang Dikerjakan Untuk Menyelesaikan Kelas Membagun-Proyek-Machine-Learning.
+Tasks to complete the Building-Projects-Machine-Learning class.
 
-Setiap Branch Mewakili Setiap Tugas Yang Dikerjakan.
+Each Branch Represents Each Task.
